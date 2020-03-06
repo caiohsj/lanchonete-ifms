@@ -3,7 +3,7 @@
 
 <html>
     <head>
-        <title>Lanchonete</title>
+        <title>XP</title>
         <!-- usar bootstrap online -->
         <link rel="stylesheet" 
               href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -16,7 +16,7 @@
         <div class="container">
             <!-- título http://getbootstrap.com/components/#jumbotron -->
             <div class="jumbotron">
-                <h1 class="text-center">Lanchonete IFMS</h1>
+                <h1 class="text-center">Projeto XP</h1>
             </div>
 
 <!-- Exibir usuário autenticado, opcao sair e menu completo -->

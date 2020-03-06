@@ -2,7 +2,8 @@
     session_start();
 
     if(isset($_SESSION["cpf"]))
-        header("location: ControllerLanchonete.php?op=listar-produtos");
+        //header("location: ControllerLanchonete.php?op=listar-produtos");
+        echo "logado";
     else
-        header("location: ControllerLanchonete.php");
+        header("location: ControllerLogin.php");
 ?>

@@ -2,11 +2,11 @@
 
 <div class="row">
     <div class="col-md-4">
-        <a class="btn btn-primary" href="ControllerLanchonete.php?op=form-funcionario">Novo Funcionario</a>
+        <a class="btn btn-primary" href="">Novo Usuário</a>
     </div>
     <div class="col-md-8">
         <!-- form pesquisa -->
-        <form action="ControllerLanchonete.php?op=salvar-funcionario"
+        <form action=""
               method="post"
               class="form-inline text-right">
             <div class="form-group">

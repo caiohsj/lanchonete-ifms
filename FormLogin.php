@@ -17,7 +17,7 @@
     <h3 class="panel-title">Acesso ao Sistema</h3>
   </div>
   <div class="panel-body">
-  	<form action="ControllerLanchonete.php?op=login" method="post">
+  	<form action="ControllerLogin.php?op=login" method="post">
   	  <div class="form-group">
   	    <label for="cpf">CPF</label>
   	    <input type="text" class="form-control" name="cpf" id="cpf" placeholder="CPF">
